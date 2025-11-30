@@ -1,3 +1,4 @@
+
 📊 Excel 图表生成工具
 一款支持散点图/柱状图绘制、数据清洗、异常值剔除、分组聚合的命令行工具，专为处理含大量零值、空值或冗余数据的 Excel 文件设计。内置进度反馈，适合科研、工程与业务数据分析场景。
 
@@ -124,3 +125,7 @@ MIT License — 免费用于个人及商业项目。
 ✉️ 反馈建议：欢迎提交 Issue 或 PR！
 
 ✅ 现在，只需一条命令，即可从混乱的 Excel 数据中生成清晰、专业的图表！
+=======
+# office_assistent
+Used for chart plotting of data in Excel. With just simple parameters, you can set up the plots, helping you save a lot of time. Of course, this project is constantly being expanded. More features will be added in the future to make it even more powerful.
+
